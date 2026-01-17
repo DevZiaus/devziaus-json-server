@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "fName": "Alfred",
+        "lName": "Kuhlman",
+        "email": "alfred@test.com",
+        "phone": "+1989898987",
+        "address": "221B Baker Street"
+    },
+    {
+        "id": "2",
+        "fName": "Brenda",
+        "lName": "Wehner",
+        "email": "brenda@test.com",
+        "phone": "+1123456789",
+        "address": "742 Evergreen Terrace"
+    },
+    {
+        "id": "3",
+        "fName": "Charlie",
+        "lName": "Davis",
+        "email": "charlie@test.com",
+        "phone": "+1987654321",
+        "address": "10 Downing Street"
+    },
+    {
+        "id": "4",
+        "fName": "Diana",
+        "lName": "Smith",
+        "email": "diana@test.com",
+        "phone": "+1555555555",
+        "address": "1600 Pennsylvania Avenue"
+    },
+    {
+        "id": "5",
+        "fName": "Ethan",
+        "lName": "Johnson",
+        "email": "ethan@test.com",
+        "phone": "+1666666666",
+        "address": "1 Infinite Loop"
+    }
+]
